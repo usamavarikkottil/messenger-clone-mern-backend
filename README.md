@@ -19,4 +19,4 @@ This project is deployed at [messenger-mern-2f30e.web.app](https://messenger-mer
 Source codes are available at:
 
 Frontend: [messenger-frontend](https://github.com/usamavarikkottil/messenger-clone-mern-frontend)
-Backend: [messenger-backend](https://github.com/usamavarikkottil/exercise-tracker-MERN-backend)
+Backend: [messenger-backend](https://github.com/usamavarikkottil/messenger-clone-mern-backend)
